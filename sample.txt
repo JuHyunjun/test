@@ -1,2 +1,3 @@
 git tutorial for newbie.
 add modified factors are registered in the index.
+commit index
